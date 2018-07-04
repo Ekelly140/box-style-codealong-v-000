@@ -159,6 +159,10 @@ header {
   border-left: : 1px solid #ccc;
 }
 
+#navbar nav a {
+  border-left: : 1px solid #ccc;
+}
+
 /*////////// LOGO //////////*/
 
 
